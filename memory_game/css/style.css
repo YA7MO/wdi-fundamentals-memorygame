@@ -66,3 +66,24 @@ img{
 	margin-left: 8px;
 	margin-right: 8px;
 }
+
+#reset_board {
+	padding: 10px;
+	margin: 10px;
+	background-color: #F15B31;
+	color:#FFFFFF;
+	border-radius: 10px;
+}
+
+footer {
+	background: #0D2C40;
+	color: white;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	padding: 10px;
+	font-size: 18px;
+	font-family: RALEWAY,seria;
+}
+
+
